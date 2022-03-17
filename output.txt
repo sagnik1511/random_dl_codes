@@ -1,0 +1,425 @@
+Batch Size : 32
+Number of epochs : 20
+Size of training dataset : 4349
+Size of validation dataset : 579
+Size of testing dataset : 871
+Started training...
+Model Loaded on GPU...
+Epoch 1 :
+      [Step 10] Loss : 5.868533
+      [Step 20] Loss : 5.843829
+      [Step 30] Loss : 5.768651
+      [Step 40] Loss : 5.788513
+      [Step 50] Loss : 5.772671
+      [Step 60] Loss : 5.510822
+      [Step 70] Loss : 5.803605
+      [Step 80] Loss : 5.612923
+      [Step 90] Loss : 5.621247
+      [Step 100] Loss : 5.577854
+      [Step 110] Loss : 5.619081
+      [Step 120] Loss : 5.742968
+      [Step 130] Loss : 5.892731
+   Train Loss : 777.368052 | Train accuracy : 0.003449
+   Validation Loss : 106.194045 | Validation Accuracy : 0.010363
+   Test Loss : 156.774541 | Test Accuracy : 0.009185
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 113.697 seconds
+
+Epoch 2 :
+      [Step 10] Loss : 5.561792
+      [Step 20] Loss : 5.572928
+      [Step 30] Loss : 5.553767
+      [Step 40] Loss : 5.770103
+      [Step 50] Loss : 5.620975
+      [Step 60] Loss : 5.475516
+      [Step 70] Loss : 5.570214
+      [Step 80] Loss : 5.574780
+      [Step 90] Loss : 5.632753
+      [Step 100] Loss : 5.341665
+      [Step 110] Loss : 5.449928
+      [Step 120] Loss : 5.389411
+      [Step 130] Loss : 5.382845
+   Train Loss : 752.451120 | Train accuracy : 0.008278
+   Validation Loss : 103.262067 | Validation Accuracy : 0.006908
+   Test Loss : 151.509323 | Test Accuracy : 0.010333
+Loss Update : Positive
+   Execution Time : 111.703 seconds
+
+Epoch 3 :
+      [Step 10] Loss : 5.318154
+      [Step 20] Loss : 5.251799
+      [Step 30] Loss : 5.421699
+      [Step 40] Loss : 5.306252
+      [Step 50] Loss : 5.424634
+      [Step 60] Loss : 5.466003
+      [Step 70] Loss : 5.235075
+      [Step 80] Loss : 5.194917
+      [Step 90] Loss : 5.030334
+      [Step 100] Loss : 4.898887
+      [Step 110] Loss : 5.047708
+      [Step 120] Loss : 5.005764
+      [Step 130] Loss : 4.630366
+   Train Loss : 697.154611 | Train accuracy : 0.032881
+   Validation Loss : 92.795404 | Validation Accuracy : 0.055268
+   Test Loss : 136.643959 | Test Accuracy : 0.047072
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 115.893 seconds
+
+Epoch 4 :
+      [Step 10] Loss : 4.585855
+      [Step 20] Loss : 4.283856
+      [Step 30] Loss : 4.462168
+      [Step 40] Loss : 4.470657
+      [Step 50] Loss : 4.319313
+      [Step 60] Loss : 4.236747
+      [Step 70] Loss : 4.568627
+      [Step 80] Loss : 3.961874
+      [Step 90] Loss : 4.342958
+      [Step 100] Loss : 4.554437
+      [Step 110] Loss : 4.343343
+      [Step 120] Loss : 4.029259
+      [Step 130] Loss : 4.406646
+   Train Loss : 598.763760 | Train accuracy : 0.085767
+   Validation Loss : 83.464534 | Validation Accuracy : 0.089810
+   Test Loss : 122.911892 | Test Accuracy : 0.083812
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 138.856 seconds
+
+Epoch 5 :
+      [Step 10] Loss : 3.752885
+      [Step 20] Loss : 3.823613
+      [Step 30] Loss : 3.881224
+      [Step 40] Loss : 3.475741
+      [Step 50] Loss : 3.821164
+      [Step 60] Loss : 3.606737
+      [Step 70] Loss : 4.291079
+      [Step 80] Loss : 3.999824
+      [Step 90] Loss : 4.086442
+      [Step 100] Loss : 4.280923
+      [Step 110] Loss : 3.590714
+      [Step 120] Loss : 4.308878
+      [Step 130] Loss : 3.674944
+   Train Loss : 518.494077 | Train accuracy : 0.157278
+   Validation Loss : 76.906259 | Validation Accuracy : 0.139896
+   Test Loss : 113.434738 | Test Accuracy : 0.129736
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 116.859 seconds
+
+Epoch 6 :
+      [Step 10] Loss : 3.334929
+      [Step 20] Loss : 3.611958
+      [Step 30] Loss : 2.992806
+      [Step 40] Loss : 3.398055
+      [Step 50] Loss : 3.079091
+      [Step 60] Loss : 3.005803
+      [Step 70] Loss : 3.389463
+      [Step 80] Loss : 2.905267
+      [Step 90] Loss : 3.588831
+      [Step 100] Loss : 3.201701
+      [Step 110] Loss : 3.495763
+      [Step 120] Loss : 3.083459
+      [Step 130] Loss : 3.233521
+   Train Loss : 446.138059 | Train accuracy : 0.236836
+   Validation Loss : 69.827035 | Validation Accuracy : 0.212435
+   Test Loss : 103.686756 | Test Accuracy : 0.183697
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 120.288 seconds
+
+Epoch 7 :
+      [Step 10] Loss : 2.502972
+      [Step 20] Loss : 2.507361
+      [Step 30] Loss : 2.345690
+      [Step 40] Loss : 2.571599
+      [Step 50] Loss : 2.590851
+      [Step 60] Loss : 2.702010
+      [Step 70] Loss : 2.884585
+      [Step 80] Loss : 2.958159
+      [Step 90] Loss : 2.975999
+      [Step 100] Loss : 2.647673
+      [Step 110] Loss : 2.743784
+      [Step 120] Loss : 2.473016
+      [Step 130] Loss : 2.435776
+   Train Loss : 376.067365 | Train accuracy : 0.341688
+   Validation Loss : 64.490668 | Validation Accuracy : 0.248705
+   Test Loss : 97.354625 | Test Accuracy : 0.223881
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 119.795 seconds
+
+Epoch 8 :
+      [Step 10] Loss : 2.189864
+      [Step 20] Loss : 2.249750
+      [Step 30] Loss : 2.594469
+      [Step 40] Loss : 2.124035
+      [Step 50] Loss : 2.460894
+      [Step 60] Loss : 2.516884
+      [Step 70] Loss : 1.721879
+      [Step 80] Loss : 2.451463
+      [Step 90] Loss : 1.917587
+      [Step 100] Loss : 2.153986
+      [Step 110] Loss : 2.479359
+      [Step 120] Loss : 2.085595
+      [Step 130] Loss : 2.639175
+   Train Loss : 308.310698 | Train accuracy : 0.447459
+   Validation Loss : 59.593604 | Validation Accuracy : 0.295337
+   Test Loss : 86.736646 | Test Accuracy : 0.270953
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 125.000 seconds
+
+Epoch 9 :
+      [Step 10] Loss : 1.858587
+      [Step 20] Loss : 2.193697
+      [Step 30] Loss : 1.688566
+      [Step 40] Loss : 1.676234
+      [Step 50] Loss : 1.351091
+      [Step 60] Loss : 1.467384
+      [Step 70] Loss : 1.774146
+      [Step 80] Loss : 1.848378
+      [Step 90] Loss : 1.624988
+      [Step 100] Loss : 1.641860
+      [Step 110] Loss : 1.704974
+      [Step 120] Loss : 1.413563
+      [Step 130] Loss : 1.949456
+   Train Loss : 241.165033 | Train accuracy : 0.574615
+   Validation Loss : 53.512935 | Validation Accuracy : 0.336788
+   Test Loss : 82.043043 | Test Accuracy : 0.319173
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 112.294 seconds
+
+Epoch 10 :
+      [Step 10] Loss : 1.423990
+      [Step 20] Loss : 1.218272
+      [Step 30] Loss : 1.316679
+      [Step 40] Loss : 1.338192
+      [Step 50] Loss : 1.302623
+      [Step 60] Loss : 1.150009
+      [Step 70] Loss : 1.287173
+      [Step 80] Loss : 0.921601
+      [Step 90] Loss : 1.125008
+      [Step 100] Loss : 1.410596
+      [Step 110] Loss : 1.388112
+      [Step 120] Loss : 1.440673
+      [Step 130] Loss : 1.326825
+   Train Loss : 180.421492 | Train accuracy : 0.691193
+   Validation Loss : 49.298735 | Validation Accuracy : 0.352332
+   Test Loss : 77.165893 | Test Accuracy : 0.358209
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 121.576 seconds
+
+Epoch 11 :
+      [Step 10] Loss : 0.924658
+      [Step 20] Loss : 0.897411
+      [Step 30] Loss : 1.244107
+      [Step 40] Loss : 0.774600
+      [Step 50] Loss : 0.916470
+      [Step 60] Loss : 0.999844
+      [Step 70] Loss : 1.005200
+      [Step 80] Loss : 0.744277
+      [Step 90] Loss : 0.798023
+      [Step 100] Loss : 0.958079
+      [Step 110] Loss : 0.925224
+      [Step 120] Loss : 0.841812
+      [Step 130] Loss : 0.971050
+   Train Loss : 125.025721 | Train accuracy : 0.813060
+   Validation Loss : 46.826567 | Validation Accuracy : 0.417962
+   Test Loss : 73.085642 | Test Accuracy : 0.409874
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 120.174 seconds
+
+Epoch 12 :
+      [Step 10] Loss : 0.634301
+      [Step 20] Loss : 0.502811
+      [Step 30] Loss : 0.580405
+      [Step 40] Loss : 0.530352
+      [Step 50] Loss : 0.770290
+      [Step 60] Loss : 0.437104
+      [Step 70] Loss : 0.520364
+      [Step 80] Loss : 0.472375
+      [Step 90] Loss : 0.460313
+      [Step 100] Loss : 0.663429
+      [Step 110] Loss : 0.589947
+      [Step 120] Loss : 0.570490
+      [Step 130] Loss : 0.556223
+   Train Loss : 81.722751 | Train accuracy : 0.901587
+   Validation Loss : 44.361458 | Validation Accuracy : 0.447323
+   Test Loss : 67.863577 | Test Accuracy : 0.419059
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 132.655 seconds
+
+Epoch 13 :
+      [Step 10] Loss : 0.244125
+      [Step 20] Loss : 0.326990
+      [Step 30] Loss : 0.446212
+      [Step 40] Loss : 0.234015
+      [Step 50] Loss : 0.585543
+      [Step 60] Loss : 0.462850
+      [Step 70] Loss : 0.371540
+      [Step 80] Loss : 0.428446
+      [Step 90] Loss : 0.458832
+      [Step 100] Loss : 0.401528
+      [Step 110] Loss : 0.415970
+      [Step 120] Loss : 0.377778
+      [Step 130] Loss : 0.359563
+   Train Loss : 52.524755 | Train accuracy : 0.946195
+   Validation Loss : 41.490865 | Validation Accuracy : 0.481865
+   Test Loss : 66.157859 | Test Accuracy : 0.446613
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 123.407 seconds
+
+Epoch 14 :
+      [Step 10] Loss : 0.206967
+      [Step 20] Loss : 0.230753
+      [Step 30] Loss : 0.181838
+      [Step 40] Loss : 0.275622
+      [Step 50] Loss : 0.166787
+      [Step 60] Loss : 0.183513
+      [Step 70] Loss : 0.200757
+      [Step 80] Loss : 0.125912
+      [Step 90] Loss : 0.151281
+      [Step 100] Loss : 0.205809
+      [Step 110] Loss : 0.246484
+      [Step 120] Loss : 0.178188
+      [Step 130] Loss : 0.169837
+   Train Loss : 26.418057 | Train accuracy : 0.989653
+   Validation Loss : 41.761964 | Validation Accuracy : 0.512953
+   Test Loss : 61.267549 | Test Accuracy : 0.487945
+Accuracy Update : Positive
+   Execution Time : 114.077 seconds
+
+Epoch 15 :
+      [Step 10] Loss : 0.118021
+      [Step 20] Loss : 0.187764
+      [Step 30] Loss : 0.110937
+      [Step 40] Loss : 0.094712
+      [Step 50] Loss : 0.127391
+      [Step 60] Loss : 0.104268
+      [Step 70] Loss : 0.088418
+      [Step 80] Loss : 0.121094
+      [Step 90] Loss : 0.112407
+      [Step 100] Loss : 0.065235
+      [Step 110] Loss : 0.091906
+      [Step 120] Loss : 0.099005
+      [Step 130] Loss : 0.134095
+   Train Loss : 14.528650 | Train accuracy : 0.997241
+   Validation Loss : 36.480731 | Validation Accuracy : 0.544041
+   Test Loss : 58.111613 | Test Accuracy : 0.524684
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 128.304 seconds
+
+Epoch 16 :
+      [Step 10] Loss : 0.068831
+      [Step 20] Loss : 0.061074
+      [Step 30] Loss : 0.061220
+      [Step 40] Loss : 0.059859
+      [Step 50] Loss : 0.069664
+      [Step 60] Loss : 0.045066
+      [Step 70] Loss : 0.087260
+      [Step 80] Loss : 0.079593
+      [Step 90] Loss : 0.056445
+      [Step 100] Loss : 0.049104
+      [Step 110] Loss : 0.054891
+      [Step 120] Loss : 0.042601
+      [Step 130] Loss : 0.056296
+   Train Loss : 8.412183 | Train accuracy : 0.999080
+   Validation Loss : 37.897015 | Validation Accuracy : 0.549223
+   Test Loss : 58.121552 | Test Accuracy : 0.514351
+Accuracy Update : Positive
+   Execution Time : 115.791 seconds
+
+Epoch 17 :
+      [Step 10] Loss : 0.036297
+      [Step 20] Loss : 0.041296
+      [Step 30] Loss : 0.046306
+      [Step 40] Loss : 0.039436
+      [Step 50] Loss : 0.036752
+      [Step 60] Loss : 0.051214
+      [Step 70] Loss : 0.039092
+      [Step 80] Loss : 0.051505
+      [Step 90] Loss : 0.036230
+      [Step 100] Loss : 0.033433
+      [Step 110] Loss : 0.040767
+      [Step 120] Loss : 0.048669
+      [Step 130] Loss : 0.035595
+   Train Loss : 5.214825 | Train accuracy : 0.999770
+   Validation Loss : 36.397446 | Validation Accuracy : 0.554404
+   Test Loss : 57.222824 | Test Accuracy : 0.515499
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 126.957 seconds
+
+Epoch 18 :
+      [Step 10] Loss : 0.031749
+      [Step 20] Loss : 0.034293
+      [Step 30] Loss : 0.031440
+      [Step 40] Loss : 0.031278
+      [Step 50] Loss : 0.028861
+      [Step 60] Loss : 0.107242
+      [Step 70] Loss : 0.040493
+      [Step 80] Loss : 0.029363
+      [Step 90] Loss : 0.033326
+      [Step 100] Loss : 0.035199
+      [Step 110] Loss : 0.027527
+      [Step 120] Loss : 0.033849
+      [Step 130] Loss : 0.039306
+   Train Loss : 4.705416 | Train accuracy : 0.999310
+   Validation Loss : 37.311498 | Validation Accuracy : 0.542314
+   Test Loss : 59.128971 | Test Accuracy : 0.525832
+Model Update : Negative
+
+   Execution Time : 121.230 seconds
+
+Epoch 19 :
+      [Step 10] Loss : 0.021612
+      [Step 20] Loss : 0.022579
+      [Step 30] Loss : 0.018723
+      [Step 40] Loss : 0.031911
+      [Step 50] Loss : 0.023993
+      [Step 60] Loss : 0.026649
+      [Step 70] Loss : 0.030181
+      [Step 80] Loss : 0.026326
+      [Step 90] Loss : 0.021037
+      [Step 100] Loss : 0.026269
+      [Step 110] Loss : 0.017109
+      [Step 120] Loss : 0.019519
+      [Step 130] Loss : 0.032412
+   Train Loss : 3.385183 | Train accuracy : 0.999310
+   Validation Loss : 35.252948 | Validation Accuracy : 0.559586
+   Test Loss : 58.566102 | Test Accuracy : 0.528129
+Loss Update : Positive
+Accuracy Update : Positive
+   Execution Time : 111.720 seconds
+
+Epoch 20 :
+      [Step 10] Loss : 0.018461
+      [Step 20] Loss : 0.018501
+      [Step 30] Loss : 0.048181
+      [Step 40] Loss : 0.024376
+      [Step 50] Loss : 0.023940
+      [Step 60] Loss : 0.020978
+      [Step 70] Loss : 0.018686
+      [Step 80] Loss : 0.019906
+      [Step 90] Loss : 0.018630
+      [Step 100] Loss : 0.026832
+      [Step 110] Loss : 0.020492
+      [Step 120] Loss : 0.023719
+      [Step 130] Loss : 0.017733
+   Train Loss : 3.094776 | Train accuracy : 0.999540
+   Validation Loss : 38.339589 | Validation Accuracy : 0.561313
+   Test Loss : 58.811718 | Test Accuracy : 0.536165
+Accuracy Update : Positive
+   Execution Time : 113.859 seconds
+
+Training finished...
+Execution Time : 2404.432 seconds
